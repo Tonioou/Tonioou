@@ -1,4 +1,4 @@
-<img src="https://github.com/Tonioou/Tonioou/blob/main/hello-there.gif" height="240px" width="480px">
+<h1 align="center"><img src="https://github.com/Tonioou/Tonioou/blob/main/hello-there.gif" height="240px" width="480px"> </h1>
 
 I'm Antonio, currently living in São Paulo, Brazil. Working as a Software Enginner, sometimes starting some studying projects
 that i never finish. 
